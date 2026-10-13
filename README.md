@@ -26,6 +26,9 @@ b=numpy.linalg.inv(a)
 
 print(b)
 ## Output:
+<img width="892" height="390" alt="image" src="https://github.com/user-attachments/assets/ee0dc13a-51f8-40e6-9246-39a5bd0a9cdb" />
+<img width="905" height="733" alt="image" src="https://github.com/user-attachments/assets/c18936b8-bd1e-454f-b1ff-fa0e9a5d4154" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
