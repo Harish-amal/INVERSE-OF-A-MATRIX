@@ -10,9 +10,9 @@ Import the numpy module to use the built-in functions for calculation
 ### Step 2: 
 Prepare the lists from the matrix and assign in np.array()
 ### Step 3: 
-
+Using the np.linalg.inv(), we can find the solutions.
 ### Step 4: 
-
+print and End the program
 ## Program:
 import os
 
